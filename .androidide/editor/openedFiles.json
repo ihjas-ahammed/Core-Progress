@@ -1,0 +1,95 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": -1,
+          "line": 16
+        },
+        "start": {
+          "column": 17,
+          "index": -1,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/java/in/corepages/progress/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 3,
+          "index": -1,
+          "line": 11
+        },
+        "start": {
+          "column": 3,
+          "index": -1,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/README.md",
+      "selection": {
+        "end": {
+          "column": 40,
+          "index": -1,
+          "line": 8
+        },
+        "start": {
+          "column": 40,
+          "index": -1,
+          "line": 8
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/assets/style.css",
+      "selection": {
+        "end": {
+          "column": 20,
+          "index": -1,
+          "line": 7
+        },
+        "start": {
+          "column": 14,
+          "index": -1,
+          "line": 7
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": -1,
+          "line": 14
+        },
+        "start": {
+          "column": 11,
+          "index": -1,
+          "line": 14
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/res/values-night/themes.xml",
+      "selection": {
+        "end": {
+          "column": 71,
+          "index": -1,
+          "line": 12
+        },
+        "start": {
+          "column": 71,
+          "index": -1,
+          "line": 12
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Core-Progress/app/src/main/java/in/corepages/progress/MainActivity.java"
+}
